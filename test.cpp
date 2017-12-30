@@ -4,6 +4,11 @@
  * @Email:  dev@mathewblack.com
  * @Filename: test.cpp
  * @Last modified by:   Mathew
- * @Last modified time: 2017-12-29T23:53:20-06:00
+ * @Last modified time: 2017-12-29T23:55:15-06:00
  * @License: MIT
  */
+
+int main(int argc, char const *argv[]) {
+  /* code */
+  return 0;
+}
